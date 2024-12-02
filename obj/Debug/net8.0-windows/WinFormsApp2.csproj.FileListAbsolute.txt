@@ -1,0 +1,253 @@
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Gerencia_Administracao.resources
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AdministracaoIAView.resources
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.CultivoView.resources
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.EstoqueView.resources
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.FormPersonalisado.resources
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.InicioView.resources
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.LoginForm.resources
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.MainForm.resources
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.ManualView.resources
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Pedidos.resources
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.RelatorioView.resources
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pasto\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\pasto\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinForms.CF340A35.Up2Date
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Gerencia_Administracao.resources
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AdministracaoIAView.resources
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.CultivoView.resources
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.EstoqueView.resources
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.FormPersonalisado.resources
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.InicioView.resources
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.LoginForm.resources
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.MainForm.resources
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.ManualView.resources
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Pedidos.resources
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.RelatorioView.resources
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinForms.CF340A35.Up2Date
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Gerencia_Administracao.resources
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AdministracaoIAView.resources
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.CultivoView.resources
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.EstoqueView.resources
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.FormPersonalisado.resources
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.InicioView.resources
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.LoginForm.resources
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.MainForm.resources
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.ManualView.resources
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Pedidos.resources
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.RelatorioView.resources
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinForms.CF340A35.Up2Date
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\pasto\Downloads\Atualização (1)\Atualização\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lab\Downloads\Atualização\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Gerencia_Administracao.resources
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AdministracaoIAView.resources
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.CultivoView.resources
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.EstoqueView.resources
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.FormPersonalisado.resources
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.InicioView.resources
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.LoginForm.resources
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.MainForm.resources
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.ManualView.resources
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Pedidos.resources
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.RelatorioView.resources
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinForms.CF340A35.Up2Date
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+C:\Users\pasto\Downloads\WinFormsApp2 (3)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Properties.Resources.resources

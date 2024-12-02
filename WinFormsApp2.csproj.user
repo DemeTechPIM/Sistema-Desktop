@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdministracaoGerenciaView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdministracaoIAView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CultivoView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EstoqueView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPersonalisado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InicioView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManualView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RelatorioView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
